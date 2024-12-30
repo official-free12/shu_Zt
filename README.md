@@ -1,0 +1,6 @@
+# 数字藏品/3D合成APP系统源码/去中心化艺术品平台铸造转赠/NFT版权艺术藏品
+
+演示前台：http://example.com.example.com<br>演示后台：联系客服<br>测试账号：13100000001<br>测试密码：123456<br>后台密码咨询客服QQ:1530363<br>数字藏品专业服务商，可签合同。<br>系统版本：H5/APP（前端vue开发）<br>后端：php，Laravel框架<br>操作系统：example.com<br>安装宝塔，example.com，以及redis<br>系统功能介绍<br>example.com：藏品平台首发用户购买<br>example.com：可输入手机号、或外部钱包地址进行内外部转出<br>example.com：购买盲盒随机抽取藏品<br>example.com：购买碎片后可以合成对应的艺术品，后台灵活设置<br>example.com：邀请好友赠送艺术品<br>example.com，支持多条链<br>服务项目<br>本店有偿承接各种源码二次开发以及一条龙服务（除了运营，其他都可以交给我们来做，包括App封装，服务器、域名、以及日常维护等），<br>拍前必看<br>①购买前可联系客服先查看演示，或者咨询客服后确定满足你的需求再下单！<br>②需要安装的请先联系客服，根据售后人员时间来安排安装服务，根据实际情况酌情下单，避免不必要的误会！<br>③你买我卖，买之前联系客服进行测试，客服会配合你，亲确保要得是演示站功再下单。<br>④如果联系不上客服QQ，可拨打电话联系<br>更多请联系客服专业1对1指导咨询<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/kqEMB" style="color: red;">https://mega-file.org/kqEMB</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
